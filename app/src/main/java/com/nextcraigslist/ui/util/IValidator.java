@@ -1,4 +1,4 @@
-package com.ddd.materialcomponents.ui.util;
+package com.nextcraigslist.ui.util;
 
 import android.support.design.widget.TextInputLayout;
 

@@ -1,4 +1,4 @@
-package com.ddd.materialcomponents.ui.fragment;
+package com.nextcraigslist.ui.fragment;
 
 import android.databinding.DataBindingUtil;
 import android.os.Bundle;
@@ -12,9 +12,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.ddd.materialcomponents.R;
-import com.ddd.materialcomponents.databinding.FragmentSignupBinding;
-import com.ddd.materialcomponents.ui.util.IValidator;
+import com.nextcraigslist.R;
+import com.nextcraigslist.databinding.FragmentSignupBinding;
+import com.nextcraigslist.ui.util.IValidator;
 
 /**
  * Created by S.C. on 21/05/18.
@@ -46,10 +46,10 @@ public class SignupFragment extends Fragment implements View.OnClickListener, IV
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.tvLogin:
-                getActivity().getSupportFragmentManager()
+               /* getActivity().getSupportFragmentManager()
                         .beginTransaction()
                         .replace(R.id.flContainer, LoginFragment.newInstance())
-                        .commit();
+                        .commit();*/
                 break;
             case R.id.btnSignUp:
                 validate();

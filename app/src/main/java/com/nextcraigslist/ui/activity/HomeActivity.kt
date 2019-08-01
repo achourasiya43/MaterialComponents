@@ -1,13 +1,13 @@
-package com.ddd.materialcomponents.ui.activity
+package com.nextcraigslist.ui.activity
 
 import android.os.Bundle
 import android.os.Handler
 import android.support.design.bottomappbar.BottomAppBar
 import android.support.v4.app.Fragment
 import android.support.v7.app.AppCompatActivity
-import com.ddd.materialcomponents.R
-import com.ddd.materialcomponents.ui.fragment.DetailsFragment
-import com.ddd.materialcomponents.ui.fragment.HomeFragment
+import com.nextcraigslist.R
+import com.nextcraigslist.ui.fragment.DetailsFragment
+import com.nextcraigslist.ui.fragment.HomeFragment
 import kotlinx.android.synthetic.main.activity_home.*
 
 /**

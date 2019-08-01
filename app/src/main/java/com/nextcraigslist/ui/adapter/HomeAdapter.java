@@ -1,4 +1,4 @@
-package com.ddd.materialcomponents.ui.adapter;
+package com.nextcraigslist.ui.adapter;
 
 import android.content.Context;
 import android.databinding.DataBindingUtil;
@@ -8,9 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.ddd.materialcomponents.R;
-import com.ddd.materialcomponents.databinding.RowHomeBinding;
-import com.ddd.materialcomponents.model.HomeModel;
+import com.nextcraigslist.R;
+import com.nextcraigslist.databinding.RowHomeBinding;
+import com.nextcraigslist.model.HomeModel;
 
 import java.util.ArrayList;
 import java.util.List;

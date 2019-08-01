@@ -1,4 +1,4 @@
-package com.ddd.materialcomponents.model;
+package com.nextcraigslist.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

@@ -1,4 +1,4 @@
-package com.ddd.materialcomponents.ui.custom;
+package com.nextcraigslist.ui.custom;
 
 import android.content.Context;
 import android.support.design.widget.Snackbar;
@@ -7,7 +7,7 @@ import android.support.v4.view.ViewCompat;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.ddd.materialcomponents.R;
+import com.nextcraigslist.R;
 
 /**
  * Created by S.C. on 29/05/18.

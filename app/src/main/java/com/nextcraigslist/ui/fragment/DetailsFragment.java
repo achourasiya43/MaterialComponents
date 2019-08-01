@@ -1,4 +1,4 @@
-package com.ddd.materialcomponents.ui.fragment;
+package com.nextcraigslist.ui.fragment;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -15,9 +15,9 @@ import android.view.ViewGroup;
 import android.view.animation.AnticipateInterpolator;
 import android.widget.Toast;
 
-import com.ddd.materialcomponents.R;
-import com.ddd.materialcomponents.databinding.FragmentDetailBinding;
-import com.ddd.materialcomponents.model.HomeModel;
+import com.nextcraigslist.R;
+import com.nextcraigslist.databinding.FragmentDetailBinding;
+import com.nextcraigslist.model.HomeModel;
 
 /**
  * Created by S.C. on 21/05/18.

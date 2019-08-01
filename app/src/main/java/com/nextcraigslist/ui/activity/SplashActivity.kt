@@ -1,4 +1,4 @@
-package com.ddd.materialcomponents.ui.activity
+package com.nextcraigslist.ui.activity
 
 import android.content.Intent
 import android.content.res.ColorStateList
@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.support.v4.content.ContextCompat
 import android.support.v7.app.AppCompatActivity
 import android.view.View
-import com.ddd.materialcomponents.R
+import com.nextcraigslist.R
 import kotlinx.android.synthetic.main.activity_splash.*
 /**
  * Created by S.C. on 25/05/18.
