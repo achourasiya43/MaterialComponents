@@ -155,6 +155,28 @@ public class HomeFragment extends Fragment implements HomeAdapter.OnClickListene
         homeList.add(new HomeModel(R.drawable.house1, R.string.desc1, R.string.property1_name));
         homeList.add(new HomeModel(R.drawable.house2, R.string.desc2, R.string.property2_name));
         homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
+        homeList.add(new HomeModel(R.drawable.house3, R.string.desc3, R.string.property3_name));
 
         final HomeAdapter adapter = new HomeAdapter(getActivity(), homeList, this);
         binding.rvHome.hasFixedSize();
